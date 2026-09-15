@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise ITSM",
+  "description": "Enterprise-grade In-House IT Service Management platform for Infrastructure, NOC, Cloud, Network, Security, and Service Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
